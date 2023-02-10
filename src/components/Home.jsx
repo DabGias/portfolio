@@ -32,11 +32,11 @@ function Home() {
 
                 <h2>E meu objetivo com a criação desse portfolio é contar minha história e mostrar as minhas capacidades, habilidades e dotes na área de <span>programação</span> e <span>web design</span>!</h2>
 
-                <section>
+                <section className="info">
                     <div className="hist">
                         <h3>Minha história</h3>
 
-                        <p>Desde criança eu já possuia um certo contato com computadores, nada profundo, mas o suficinete para gerar interesse e uma certa habilidade. Durante da minha adolecência mantive o contato com computadores, porém tinha uma grande interesse e tirava boas notas em biologia, e logo acreditei que essa era uma boa profissão, mas durante os últimos anos do meu ensino médio comecei um tecnólogo na área de manutenção e suporte em informática, e apesar do curso ser focado em hardware, o cursos também abordava programação, porém após algumas semanas depois a pandemia chegou e acabou com o curso que era totalmente baseado em prática e atividades laboratoriais, logo as únicas matérias que se mantiveram inalteradas foram as que abordavam programação, e nessas eu vi uma oportunidade de seguir a carreira que sigo hoje.</p>
+                        <p>Desde criança eu já possuia um certo contato com computadores, nada profundo, mas o suficinete para gerar interesse e uma certa habilidade. Durante minha adolecência mantive o contato com computadores, porém tinha um grande interesse e tirava boas notas em biologia, logo acreditei que essa era uma boa profissão, mas durante os últimos anos do meu ensino médio comecei um tecnólogo na área de manutenção e suporte em informática, e apesar do curso ser focado em hardware, o curso também abordava programação, porém após algumas semanas depois do inicio do tecnólogo a pandemia chegou e acabou com o curso que era totalmente baseado em prática e atividades laboratoriais, logo as únicas matérias que se mantiveram inalteradas foram as que abordavam programação, e nessas eu vi uma oportunidade de seguir a carreira que sigo hoje.</p>
                     </div>
                     <div className="objtvs">
                         <h3>Meus objetivos</h3>
