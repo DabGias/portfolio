@@ -5,9 +5,10 @@ const StyleHeader = styled.div `
     padding: 20px;
     width: 50%;
     margin: auto;
+    margin-bottom: 100px;
 
     h1 {
-        color: #002bff;
+        color: #627dff;
         font-size: 45px;
     }
 
@@ -20,7 +21,7 @@ function Header() {
     return(
         <>
             <StyleHeader>
-                <h1>Bem-vindo(a) <span>ao meu portifólio!</span></h1>
+                <h1>Bem-vindo(a) <span>ao meu portfolio!</span></h1>
             </StyleHeader>
         </>
     )
